@@ -85,15 +85,15 @@ h1 {
 }
 
 h2 {
-    font-size: 22px
+    font-size: 24px
 }
 
 h3 {
-    font-size: 18px
+    font-size: 24px
 }
 
 h4 {
-    font-size: 16px
+    font-size: 24px
 }
 
 h5 {
@@ -143,7 +143,7 @@ p {
 }
 
 a {
-    color: #222222;
+    color: #ffc107;
     text-decoration: none;
     outline: none !important;
 }
